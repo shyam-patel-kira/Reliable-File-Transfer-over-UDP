@@ -4,7 +4,7 @@ INTRODUCTION
 	with the user, gets the user command and sends it to the server. The main purpose of the server 
 	is to collect the data based on the user's input and send back to the client. In this project, 
 	a reliable connectionless file transmission model is implemented using User Datagram Protocol 
-	(UDP). This project is part of Network Systems (CSCI 5273) course.
+	(UDP). This Assignment is part of Computer Networks course.
 
 BUILD and RUN STEPS
 -------------------
